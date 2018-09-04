@@ -98,7 +98,7 @@ The module’s callback is invoked with the test environment as its this context
 
 如果有多个 QUnit.module.only()，则只运行最先定义的。
 
-QUnit.only()也可以运行。
+也可以写成QUnit.only()。
  
 ### 指定跳过测试代码
 
